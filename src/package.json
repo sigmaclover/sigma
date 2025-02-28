@@ -2,7 +2,7 @@
     "name": "positure-app",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://sigmaclover.github.io/sigma",
+    "homepage": "https://sigmaclover.github.io/sigma/",
     "dependencies": {
       "@tensorflow-models/pose-detection": "^1.0.0",
       "@tensorflow/tfjs": "^4.0.0",
